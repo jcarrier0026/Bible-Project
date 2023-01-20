@@ -1,5 +1,6 @@
 import {useState} from "react";
 
+// Testing
 function InputHandler(text) {
 	console.debug(text.toLowerCase());
 }
